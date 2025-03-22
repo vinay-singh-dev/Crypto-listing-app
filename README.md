@@ -49,8 +49,5 @@ This app fetches stock market data using a financial API. You need to create an 
 ## 🤝 Contribution
 Feel free to contribute! Open an issue or submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 ✨ **Star this repository** if you found it useful!
