@@ -7,7 +7,7 @@ Stock Market Tracker is an Android application that provides real-time stock mar
 - 📊 **Live Stock Prices** - Get real-time stock market data for various companies.
 - 🔍 **Stock Search** - Search and track individual stocks.
 - 📅 **Historical Data** - View past performance trends with interactive charts. 
-- 📈 **Portfolio Management** - Track and manage your investments.
+- 📈 **Portfolio Management** - Track and manage your investments. 
 - 🔔 **Price Alerts** - Set price alerts to get notified of stock movements.
 - 🌙 **Dark & Light Mode** - Switch themes based on user preference.
 - 📡 **API Integration** - Fetch real-time stock data from a financial API.
