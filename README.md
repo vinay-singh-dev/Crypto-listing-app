@@ -37,7 +37,7 @@ Stock Market Tracker is an Android application that provides real-time stock mar
 2. Open the project in **Android Studio**.
 3. Add your **API key** in `gradle.properties`:
    ```properties
-   STOCK_API_KEY=your_api_key_here
+   STOCK_API_KEY=your_api_key_here 
    ```
 4. Sync the project and run it on an emulator or device.
 
